@@ -1,0 +1,11 @@
+{
+    "name": "express-ex-2",
+    "version": "1.0.0",
+    "main": "app.js",
+    "repository": "https://github.com/Luc-pl/express-ex-2.git",
+    "license": "MIT",
+    "scripts": {},
+    "dependencies": {
+        "express": "4.17.1"
+    }
+}
